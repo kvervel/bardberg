@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Hjem
 landing-title: 'Hei, jeg heter Bård'
 description: null
 image: null

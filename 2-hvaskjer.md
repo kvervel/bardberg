@@ -1,12 +1,13 @@
 ---
 layout: allposts
-title: All posts
-landing-title: 'All posts'
+title: Hva skjer?
+landing-title: 'Hva skjer?'
 nav-menu: true
 description: null
 image: null
 author: null
 show_tile: false
+type: event
 ---
 
-<h1>All posts</h1>
+<h1>Hva skjer?</h1>
