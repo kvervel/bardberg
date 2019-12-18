@@ -2,7 +2,7 @@
 title: Bård Berg
 subtitle: musikk
 email: 
-description: Producer & drummer
+description: Trommis, produsent, DJ - Oslo
 baseurl: "/bardberg" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -28,6 +28,7 @@ linkedin_url:
 pinterest_url:
 slack_url:
 twitter_url: 
+spotify_url: https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r?si=6AfQJEAkSbKUH-Xd4tOvYw
 
 # build settings
 markdown: kramdown
