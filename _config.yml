@@ -3,8 +3,8 @@ title: Bård Berg
 subtitle: musikk
 email: 
 description: Trommis, produsent, DJ - Oslo
-baseurl: "/bardberg" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: bardberg.ninja
 author:
 street_address: 
 city:
