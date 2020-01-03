@@ -1,13 +1,13 @@
 ---
 layout: allposts
-title: Hva skjer?
-landing-title: 'Hva skjer?'
+title: Live
+landing-title: 'Live'
 nav-menu: true
 description: null
 image: null
 author: null
 show_tile: false
-type: event
+type: live
 ---
 
 <h1>Hva skjer?</h1>
