@@ -6,12 +6,6 @@ description: Trommis, produsent, DJ - Oslo.
 baseurl: # the subpath of your site, e.g. /blog
 url: bardberg.ninja
 author:
-street_address: 
-city:
-state: 
-zip_code:
-country: 
-phone: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"

@@ -2,6 +2,7 @@
 layout: home
 title: Hjem
 landing-title: 'Hei, jeg heter Bård'
+contact-header: 'Samarbeid med meg'
 description: null
 image: null
 author: null
