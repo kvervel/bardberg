@@ -13,7 +13,7 @@
   </article>
  
   {% endfor %}
-  {% for page in site.pages %}
+  {% for page in site.pages limit:4 %}
   {% if page.show_tile != false %}
   <article>
     <span class="image">
