@@ -7,7 +7,7 @@ description: null
 image: assets/images/turne.jpg
 author: null
 show_tile: true
-show_image: true
+show_image: false
 ---
 
 

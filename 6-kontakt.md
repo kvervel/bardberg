@@ -7,5 +7,6 @@ nav-menu: true
 show_tile: false
 ---
 
+Tlf: 97540528  
+Epost: bard.berg93(krøll)gmail.com
 
-## Overskrift nr 2.
