@@ -6,8 +6,8 @@ nav-menu: true
 description: null
 image: assets/images/turne.jpg
 author: null
-show_tile: true
-show_image: false
+show_tile: false
+show_image: true
 ---
 
 
