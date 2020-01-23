@@ -1,7 +1,7 @@
 ---
+title: DJ
 layout: about
-title: Live
-landing-title: 'Live'
+landing-title: 'DJ'
 nav-menu: true
 description: null
 image: assets/images/turne.jpg
@@ -10,4 +10,6 @@ show_tile: true
 show_image: true
 ---
 
-<h1>Hva skjer?</h1>
+
+Jeg er DJ.
+

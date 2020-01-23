@@ -8,7 +8,7 @@ url: bardberg.no
 author:
 
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 4
 
 # social settings
@@ -16,6 +16,7 @@ facebook_url: https://www.facebook.com/bardjb
 instagram_url: https://instagram.com/bardkrolle
 spotify_url: https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r?si=6AfQJEAkSbKUH-Xd4tOvYw
 soundcloud_url: https://soundcloud.com/b-rd-j-nland-berg
+tidal_url: https://tidal.com/browse/artist/10824332
 
 # build settings
 markdown: kramdown
