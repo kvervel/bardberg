@@ -2,11 +2,11 @@
 layout: home
 title: Hjem
 landing-title: 'Bård Berg'
-contact-header: 'Samarbeid med meg'
+contact-header: 'Bård Berg'
 description: null
 image: null
 author: null
 show_tile: false
 ---
 
-Trenger du noen til å gjøre ting? Jeg er flink!
+Trommis, Produsent og DJ - Oslo

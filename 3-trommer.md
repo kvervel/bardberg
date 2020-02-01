@@ -12,5 +12,5 @@ youtubeId: '\_MTu6KVSf20'
 ---
 
 
-Jeg spiller trommer.
+Fra eksamenskonserten fra Norges Musikkhøgskole.
 
