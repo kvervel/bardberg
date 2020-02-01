@@ -12,6 +12,11 @@ show_image: true
 
 # Live
 
+
+26Feb Oslo/TILT Off:Larm Gems		Bård Berg
+
+
+## 2019
  
 
 4Des Paris/ 						Dark Roast  
