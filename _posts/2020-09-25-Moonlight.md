@@ -1,9 +1,9 @@
 ---
 layout: post
-title: moonlight / Swipe
+title: Moonlight / Swipe
 description: Single
 type: release
-image: Moonlight,Swipe.jpg
+image: assets/images/Moonlight,Swipe.jpg
 ---
 
 Norwegian rising-star shines on evocative and immersive new double single
