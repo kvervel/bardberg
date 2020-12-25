@@ -19,8 +19,14 @@
 	);
 
 // Font.
+
+@font-face {
+	font-family: SFProDisplay;
+	src: url(/assets/fonts/SF-Pro-Display-Regular.otf);
+  }
+
 	$font: (
-		family:				('Source Sans Pro', Helvetica, sans-serif),
+		family:				(SFProDisplay, 'Source Sans Pro', Helvetica, sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		600,
@@ -30,7 +36,7 @@
 
 // Palette.
 	$palette: (
-		bg:					#242943,
+		bg:					#4f515f,
 		bg-alt:				#2a2f4a,
 		fg:					#ffffff,
 		fg-bold:			#ffffff,
