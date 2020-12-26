@@ -27,6 +27,10 @@
                 </div>
  
 
+            {% for x in site.things %}
+                <p>{{ x }}</p>
+            {% endfor %}
+
 	        {% if page.youtubeId %}
 	        	{% include youtubePlayer.html id=page.youtubeId %}
 	  		{% endif %}
