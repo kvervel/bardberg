@@ -25,18 +25,10 @@
                     {{ page.description }}
 
                 </div>
- 
-            {% if page.things %}
-                <p>{{ page.things }}</p>
-            {% endif %}
 
-            {% for x in page.things %}
-                <p>{{ x }}</p>
+            {% for x in page.youtubeId %}
+                {% include youtubePlayer.html id=x %}
             {% endfor %}
-
-	        {% if page.youtubeId %}
-	        	{% include youtubePlayer.html id=page.youtubeId %}
-	  		{% endif %}
 
             {% if page.show_image !=false %}
                 <span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>
