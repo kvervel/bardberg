@@ -11,4 +11,8 @@ show_image: false
 youtubeId: '\_MTu6KVSf20'
 ---
 
-Fra eksamenskonserten fra Norges Musikkhøgskole.
+Fra eksamenskonserten min fra Norges Musikkhøgskole. -2019
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xykuH1Dbrf8&t=19s" frameborder="0" allowfullscreen></iframe>
+
+Erled Tredals eksamenskonsert -2020
