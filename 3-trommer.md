@@ -11,6 +11,4 @@ show_image: false
 youtubeId: '\_MTu6KVSf20'
 ---
 
-
 Fra eksamenskonserten fra Norges Musikkhøgskole.
-
