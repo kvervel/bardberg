@@ -26,8 +26,11 @@
 
                 </div>
  
+            {% if page.things %}
+                <p>{{ page.things }}</p>
+            {% endif %}
 
-            {% for x in site.things %}
+            {% for x in page.things %}
                 <p>{{ x }}</p>
             {% endfor %}
 
