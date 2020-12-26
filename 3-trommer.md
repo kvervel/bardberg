@@ -1,7 +1,7 @@
 ---
-title: Trommer
+title: Drums
 layout: about
-landing-title: 'Trommer'
+landing-title: 'Drums'
 nav-menu: true
 description: null
 image: assets/images/trommer1.jpg

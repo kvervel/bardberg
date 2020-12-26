@@ -1,8 +1,8 @@
 # site settings
 title: Bård Berg
-subtitle: musikk
+subtitle: music
 email: 
-description: Trommis, produsent, DJ - Oslo.
+description: drummer, producer, DJ - Oslo.
 baseurl: # the subpath of your site, e.g. /blog
 url: bardberg.no
 author:

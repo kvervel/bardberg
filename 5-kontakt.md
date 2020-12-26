@@ -1,12 +1,11 @@
 ---
-title: Ta kontakt
-layout: kontakt
-description: 'Ta gjerne kontakt via tlf eller mail for en uforpliktende samtale'
-image: assets/images/pic07.jpg
+title: Hit me up!
+layout: about
+description: null
+image:
 nav-menu: true
 show_tile: false
 ---
 
-Tlf: 97540528  
-Epost: bard.berg93(Krøll)gmail.com
+You can reach me at bard.berg93(at)gmail.com and (+47) 97540528 during reasonable hours.
 

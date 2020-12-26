@@ -1,7 +1,7 @@
 ---
 layout: allposts
-title: Utgivelser
-landing-title: 'Utgivelser'
+title: Releases
+landing-title: 'Releases'
 nav-menu: true
 description: null
 image: assets/images/close_your_eyes.jpg
@@ -10,4 +10,4 @@ show_tile: true
 type: release
 ---
 
-<h1>Utgivelser</h1>
+<h1>Releases</h1>
