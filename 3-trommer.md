@@ -9,7 +9,11 @@ author: null
 show_tile: true
 show_image: false
 youtubeId: '\_MTu6KVSf20'
-things: 'a b c d'
+things: 
+    - 'a'
+    - 'b'
+    - 'c'
+    - 'd'
 ---
 
 Fra eksamenskonserten min fra Norges Musikkhøgskole. -2019
