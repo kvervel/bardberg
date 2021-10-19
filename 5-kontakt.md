@@ -7,5 +7,4 @@ nav-menu: true
 show_tile: false
 ---
 
-You can reach me at bard.berg93(at)gmail.com and (+47) 97540528 during reasonable hours.
-
+You can reach me at oslobeat.booking(at)gmail.com and (+47) 97540528 during reasonable hours.
