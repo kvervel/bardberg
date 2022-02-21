@@ -7,4 +7,4 @@ nav-menu: true
 show_tile: false
 ---
 
-You can reach me at oslobeat.booking(at)gmail.com and (+47) 97540528 during reasonable hours.
+For booking contact havard(at)allthingslive.com for other requests hit me up on oslobeats.booking@gmail.com or (+47) 97540528 during reasonable hours.
