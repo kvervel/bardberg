@@ -17,4 +17,4 @@ Vi snakker fantastiske R&B- og jazzartister som Isabelle Eberdean, Gabriela Garr
 
 “For meg handler Oslo Beats Vol. 4 om å fange følelsen av å leve i Oslo akkurat nå. Prosessen har vært et stort kollektivt prosjekt. Jeg har invitert inn vokalister og musikere jeg ser opp til og elsker og jobbe med, og sammen har vi bygget låter som både har klubb-energi og musikalsk dybde. Jeg ville lage en plate som fungerer like bra på hodetelefoner som på et svett dansegulv” – Bård Berg
 
-Available on Spotify herre: [https://open.spotify.com/album/03QXt3TUlABoZxk775LG0c?si=7BJ3rnJ6RkaxLyGAljcMKg)
+Available on Spotify herre: [Spotify](https://open.spotify.com/album/03QXt3TUlABoZxk775LG0c?si=7BJ3rnJ6RkaxLyGAljcMKg)
